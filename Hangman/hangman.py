@@ -61,6 +61,7 @@ def main():
                 print((generate_image(life_count)))
                 tprint("Game Over!")
                 print("You have no more lives left. Better luck next time!")
+                print(f"The word is {word}")
                 break
         
         while True:
