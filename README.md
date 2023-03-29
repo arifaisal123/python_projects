@@ -1,4 +1,4 @@
-# python_projects
+# Python Projects
 
 This repository consists of different Python based projects that I have created.
 The source code has been shared with each of the projects.
